@@ -1,0 +1,25 @@
+.item {
+    display: inline-block;
+    margin-left: 3%;
+    margin-right: 3%;
+    border: 3px solid black;
+    padding: 10px;
+    border-radius: 12px;
+ 
+}
+
+.sectionHeader {
+    text-align: center;
+}
+
+#shirtsSection {
+    text-align: center;
+}
+
+#pantsSection {
+    text-align: center;
+}
+
+#shoesSection {
+    text-align: center;
+}
